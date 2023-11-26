@@ -17,12 +17,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### Demo Application UI
+## Demo Application UI
 
-## Without Hover Effect
+### `Without Hover Effect Searched Jobs`
 ![job-posting-searched](https://github.com/md-aman-git/job-posting-frontend/assets/72564984/8c956235-87f2-42f1-b708-ddf0c9ff499d)
 
-## With Hover Effect
+### `With Hover Effect All Jobs`
 ![job-posting-without-searched](https://github.com/md-aman-git/job-posting-frontend/assets/72564984/aecde08e-0b7a-41c9-b16c-979fe91d592a)
 
 
