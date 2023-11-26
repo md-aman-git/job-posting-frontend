@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+## Pre-Requisites
+
+Before running this application you need to run one more app on Tomcat server 8080 as this react-app is using our own rest-api created using Spring Boot. Repository link is provided below :
+[Job Posting Spring Boot Repo](https://github.com/md-aman-git/spring-mongo-job-post)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
