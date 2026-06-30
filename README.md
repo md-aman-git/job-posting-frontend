@@ -20,9 +20,9 @@ You may also see any lint errors in the console.
 ## Demo Application UI
 
 ### `Without Hover Effect Searched Jobs`
-![job-posting-searched](https://github.com/md-aman-git/job-posting-frontend/assets/72564984/8c956235-87f2-42f1-b708-ddf0c9ff499d)
+![job-posting-searched](https://github.com/md-aman-git/job-posting-frontend/assets/without-hover.png)
 
 ### `With Hover Effect All Jobs`
-![job-posting-without-searched](https://github.com/md-aman-git/job-posting-frontend/assets/72564984/aecde08e-0b7a-41c9-b16c-979fe91d592a)
+![job-posting-without-searched](https://github.com/md-aman-git/job-posting-frontend/assets/with-hover.png)
 
 
